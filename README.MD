@@ -82,3 +82,10 @@ export  $initHighlight;
 | Pedro  | Perez    | 33444     |
 | Javier | Sanchez  | 34566     |
 
+# Citas
+Estos es un  texto referente a una cita que hay debajo.
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita
+
