@@ -34,7 +34,8 @@ Underline 2 equivale a la cabecera 1
 # Imagenes
 ![Logo github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-# Code Snippets
+# Code Snippets - highlight.js 
+
 Código JSON
 ```JSON
 [
@@ -74,3 +75,10 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Pedro  | Perez    | 33444     |
+| Javier | Sanchez  | 34566     |
+
