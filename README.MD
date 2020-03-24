@@ -5,4 +5,9 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
-soy un readme
+underline
+
+Underline 1 equivale a la cabecera 2
+-----------
+Underline 2 equivale a la cabecera 1
+===========
